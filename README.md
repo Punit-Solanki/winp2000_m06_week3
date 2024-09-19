@@ -1,20 +1,25 @@
 # Learning About Linux
 
+![image](https://github.com/user-attachments/assets/052a680a-d318-4ef2-8675-e2aa255b33d7)
+
+
 ## Introduction
-Let’s explore Linux, a powerful operating system that’s important in today’s tech world. This guide will take you through its history, different versions, and some basic commands to help you get started.
+Let’s explore Linux, a very important Operating System in today’s tech world. This guide will take you through its origin story. We like to dictate it as a story so it is easy to remember, different flavors, and a few simple commands so you can get started easily with your journey.
 
 ---
 
 ## Section 1: The Story of Linux
-Linux began with Unix, created in the late 1960s by a team at AT&T's Bell Labs, including Ken Thompson and Dennis Ritchie. In 1973, they rewrote Unix in C, which made it easier to use and adapt.
+Linux began with Unix which created in the late 1960 by a team at AT&T's Bell Labs, including Ken Thompson and Dennis Ritchie.  
 
-In 1983, Richard Stallman wanted to create a free alternative to Unix, launching the GNU Project. Around the same time, Andrew Tanenbaum made MINIX for education.
+In 1973, they rewrote Unix in C, which made it easier to use and adapt.  
 
-Then, in 1991, Linus Torvalds started working on the Linux kernel because he wanted something better than MINIX. By combining his kernel with GNU tools, he created a free operating system that anyone could use.
+In 1983, Richard Stallman wanted to create a free alternative to Unix, launching the GNU Project. Around the same time, Andrew Tanenbaum made MINIX for education.  
+
+Then, in 1991, Linus Torvalds started working on the Linux kernel because he wanted something better than MINIX. By combining his kernel with GNU tools, he created a free operating system that anyone could use.  
 
 ---
 
-## Section 2: Discovering Linux Distributions
+## Section 2: Discovering Linux Flavors
 Linux comes in many versions called distributions, or distros. Each one is designed for different users and needs. Here are a few popular ones:
 
 - **Ubuntu**: Great for beginners with lots of support.
