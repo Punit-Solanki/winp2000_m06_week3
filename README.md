@@ -56,4 +56,4 @@ With these commands, you can start exploring Linux!
 ---
 
 ## Conclusion
-Now that you know the basics of Linux, its history, distributions, and commands, you’re ready to dive deeper. Documenting your learning and using Git will help you grow your skills. Welcome to the world of Linux!
+Now that you know the basics of Linux, its history, distributions, and commands, you’re ready to dive deeper. Documenting your learning and using Git will help you grow your skills. Welcome to the world of Linux! You will have fun
