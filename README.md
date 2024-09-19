@@ -11,24 +11,22 @@ Let’s explore Linux, a very important Operating System in today’s tech world
 ## Section 1: The Story of Linux
 Linux began with Unix which created in the late 1960 by a team at AT&T's Bell Labs, including Ken Thompson and Dennis Ritchie.  
 
-In 1973, they rewrote Unix in C, which made it easier to use and adapt.  
+Later in 1991, Linus Torvalds started working on the Linux kernel because he wanted something better than MINIX.  
 
-In 1983, Richard Stallman wanted to create a free alternative to Unix, launching the GNU Project. Around the same time, Andrew Tanenbaum made MINIX for education.  
-
-Then, in 1991, Linus Torvalds started working on the Linux kernel because he wanted something better than MINIX. By combining his kernel with GNU tools, he created a free operating system that anyone could use.  
+By combining his kernel with GNU tools, he created a free operating system that anyone could use.  
 
 ---
 
 ## Section 2: Discovering Linux Flavors
-Linux comes in many versions called distributions, or distros. Each one is designed for different users and needs. Here are a few popular ones:
+Linux comes in many versions called distributions, or distros. Each one is designed for different users and needs. Some examples are:
 
-- **Ubuntu**: Great for beginners with lots of support.
-- **Linux Mint**: Simple and reliable, perfect for everyday use.
-- **Zorin OS**: Easy for Windows users to switch to.
-- **elementary OS**: Stylish and simple, similar to Mac.
-- **Fedora**: For those who want the latest features.
+- **Ubuntu**: This one is great for beginners.
+- **Linux Mint**: This is more simplistic and great for everyday use.
+- **Zorin OS**: If you are coming from Windows OS, this is a nice choice.
+- **elementary OS**: This is stylish, similar to Mac.
+- **Fedora**: This is for staying up to date with new features.
 
-You can pick one that feels right for you!
+Feel free to go wild and explore what works best for you!!!
 
 ---
 
@@ -56,7 +54,7 @@ Here are some basic commands to help you navigate Linux:
 | `df -h`   | Shows disk space usage.                        |
 | `free`    | Displays memory usage.                         |
 
-With these commands, you can start exploring Linux!
+Note the output of each command and keep it for note-keeping purposes
 
 ---
 
