@@ -9,9 +9,9 @@ Let’s explore Linux, a very important Operating System in today’s tech world
 ---
 
 ## Section 1: The Story of Linux
-Linux began with Unix which created in the late 1960 by a team at AT&T's Bell Labs, including Ken Thompson and Dennis Ritchie.  
+Linux began with Unix which created in the late 1960 by a team at AT&T's Bell Labs, including Ken Thompson and Dennis Ritchie.
 
-Later in 1991, Linus Torvalds started working on the Linux kernel because he wanted something better than MINIX.  
+Later in 1991, Linus Torvalds started working on the Linux kernel because he wanted something better.  
 
 By combining his kernel with GNU tools, he created a free operating system that anyone could use.  
 
