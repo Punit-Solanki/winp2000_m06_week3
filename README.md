@@ -1,4 +1,4 @@
-# Learning About Linux
+# A great start to learn Linux ~ By Punit Solanki
 
 ![image](https://github.com/user-attachments/assets/052a680a-d318-4ef2-8675-e2aa255b33d7)
 
